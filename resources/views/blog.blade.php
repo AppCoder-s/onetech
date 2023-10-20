@@ -10,6 +10,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css">
 <link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
+<!--    Modificados  -->
+<link rel="stylesheet" type="text/css" href="../css/blog_styles.css">
+<link rel="stylesheet" type="text/css" href="../css/blog_single_styles.css">
+<link rel="stylesheet" type="text/css" href="../css/blog_responsive.css">
+<link rel="stylesheet" type="text/css" href="../css/blog_single_responsive.css">
+<link rel="stylesheet" type="text/css" href="../css/boostrap4/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="../css/boostrap4/responsive.css">
+<link rel="stylesheet" type="text/css" href="../css/boostrap4/main_styles.css">
+
+
+
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
@@ -111,7 +122,8 @@
 					<div class="col-lg-4 col-9 order-lg-3 order-2 text-lg-left text-right">
 						<div class="wishlist_cart d-flex flex-row align-items-center justify-content-end">
 							<div class="wishlist d-flex flex-row align-items-center justify-content-end">
-								<div class="wishlist_icon"><img src="images/heart.png" alt=""></div>
+								<div class="wishlist_icon">
+									<img src="images/heart.png" alt="" ></div>
 								<div class="wishlist_content">
 									<div class="wishlist_text"><a href="#">Wishlist</a></div>
 									<div class="wishlist_count">115</div>
@@ -122,7 +134,7 @@
 							<div class="cart">
 								<div class="cart_container d-flex flex-row align-items-center justify-content-end">
 									<div class="cart_icon">
-										<img src="images/cart.png" alt="">
+										<img src="images/cart.png" alt="" ></div>
 										<div class="cart_count"><span>10</span></div>
 									</div>
 									<div class="cart_content">

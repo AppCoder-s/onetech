@@ -767,7 +767,7 @@ select option
 }
 .wishlist_icon img
 {
-	width: 100%;
+	width: %;
 }
 .wishlist_content
 {
@@ -819,7 +819,7 @@ select option
 }
 .cart_icon img
 {
-	width: 100%;
+	width: 3%;
 }
 .cart_content
 {
