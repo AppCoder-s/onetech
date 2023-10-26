@@ -132,7 +132,7 @@
 {
 	.top_bar
 	{
-		/*display: none;*/
+		height: 89px;/*display: none;*/
 	}
 	.header_search
 	{

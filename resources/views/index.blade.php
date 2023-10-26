@@ -13,10 +13,18 @@
 <!--    Modificados  -->
 <link rel="stylesheet" type="text/css" href=".public/css/product_responsive.css">
 <link rel="stylesheet" type="text/css" href=".public/css/boostrap4/blog_responsive.css">
-<link rel="stylesheet" type="text/css" href=".public/css/boostrap4/bootstrao.min.css">
-<link rel="stylesheet" type="text/css" href="plugins/slick-1.8.0/slick.css">
+<link rel="stylesheet" type="text/css" href=".public/css/boostrap4/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href=".public/css/plugins/slick-1.8.0/slick.css">
 <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/responsive.css">
+<link rel="stylesheet" type="text/css" href=".public/css/plugins/OwlCarousel2-2.2.1/animate.css">
+<link rel="stylesheet" type="text/css" href=".public/css/plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href=".public/css/plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+<link rel="stylesheet" type="text/css" href=".public/css/plugins/jquery-ui-1.12.1.custom/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href=".public/css/plugins/fontawesome-free/css/fontawesome-all.css">
+<link rel="stylesheet" type="text/css" href=".public/css/responsive.css">
+
+
 
 </head>
 
@@ -40,11 +48,11 @@
 							<div class="top_bar_menu">
 								<ul class="standard_dropdown top_bar_dropdown">
 									<li>
-										<a href="#">English<i class="fas fa-chevron-down"></i></a>
+										<a href="#">Idioma<i class="fas fa-chevron-down"></i></a>
 										<ul>
-											<li><a href="#">Italian</a></li>
-											<li><a href="#">Spanish</a></li>
-											<li><a href="#">Japanese</a></li>
+											<li><a href="#">Español</a></li>
+											<li><a href="#">Ingles</a></li>
+											
 										</ul>
 									</li>
 									<li>

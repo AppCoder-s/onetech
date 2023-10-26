@@ -323,7 +323,7 @@ section
 {
 	font-size: 16px;
 	font-weight: 300;
-	line-height: 56px;
+	line-height: 100px;
 	color: #000;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -767,7 +767,7 @@ select option
 }
 .wishlist_icon img
 {
-	width: %;
+	width: 3%;
 }
 .wishlist_content
 {
@@ -798,7 +798,7 @@ select option
 {
 	position: absolute;
 	bottom: -1px;
-	right: -14px;
+	right: -1px;
 	width: 23px;
 	height: 23px;
 	background: #0e8ce4;
@@ -1521,14 +1521,14 @@ select option
 	margin-top: -10px;
 }
 .footer .logo
-{
+/* {
 	top: auto;
 	-webkit-transform: transform: none;
     -moz-transform: transform: none;
     -ms-transform: transform: none;
     -o-transform: transform: none;
     transform: none;
-}
+} */
 .footer .logo a
 {
 	color: #000000;
