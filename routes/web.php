@@ -14,38 +14,33 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('template.index');
 });
 
 Route::get('', function () {
-    return view('index-2');
-});
-Route::get('', function () {
-    return view('contact');
+    return view('template.content');
 });
 
 Route::get('', function () {
-    return view('regular');
+    return view('template.contentDetails');
 });
 
 Route::get('', function () {
-    return view('product');
+    return view('template.footer');
 });
 
 Route::get('', function () {
-    return view('shop');
+    return view('template.header');
 });
 
 Route::get('', function () {
-    return view('cart');
+    return view('template.orderPlaced');
 });
 
 Route::get('', function () {
-    return view('blog_sinlge');
+    return view('template.slider');
 });
 
 Route::get('', function () {
-    return view('blog');
+    return view('template.cart');
 });
-
-
